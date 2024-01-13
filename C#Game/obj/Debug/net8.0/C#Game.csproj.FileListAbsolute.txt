@@ -1,0 +1,14 @@
+/home/algebra/Documents/class/c#/C#Game/bin/Debug/net8.0/C#Game
+/home/algebra/Documents/class/c#/C#Game/bin/Debug/net8.0/C#Game.deps.json
+/home/algebra/Documents/class/c#/C#Game/bin/Debug/net8.0/C#Game.runtimeconfig.json
+/home/algebra/Documents/class/c#/C#Game/bin/Debug/net8.0/C#Game.dll
+/home/algebra/Documents/class/c#/C#Game/bin/Debug/net8.0/C#Game.pdb
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.GeneratedMSBuildEditorConfig.editorconfig
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.AssemblyInfoInputs.cache
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.AssemblyInfo.cs
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.csproj.CoreCompileInputs.cache
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.dll
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/refint/C#Game.dll
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.pdb
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/C#Game.genruntimeconfig.cache
+/home/algebra/Documents/class/c#/C#Game/obj/Debug/net8.0/ref/C#Game.dll

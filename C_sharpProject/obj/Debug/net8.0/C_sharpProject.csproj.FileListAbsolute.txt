@@ -1,0 +1,14 @@
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.AssemblyInfoInputs.cache
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.AssemblyInfo.cs
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.csproj.CoreCompileInputs.cache
+/home/algebra/Documents/class/c#/C_sharpProject/bin/Debug/net8.0/C_sharpProject
+/home/algebra/Documents/class/c#/C_sharpProject/bin/Debug/net8.0/C_sharpProject.deps.json
+/home/algebra/Documents/class/c#/C_sharpProject/bin/Debug/net8.0/C_sharpProject.runtimeconfig.json
+/home/algebra/Documents/class/c#/C_sharpProject/bin/Debug/net8.0/C_sharpProject.dll
+/home/algebra/Documents/class/c#/C_sharpProject/bin/Debug/net8.0/C_sharpProject.pdb
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.dll
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/refint/C_sharpProject.dll
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.pdb
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/C_sharpProject.genruntimeconfig.cache
+/home/algebra/Documents/class/c#/C_sharpProject/obj/Debug/net8.0/ref/C_sharpProject.dll
